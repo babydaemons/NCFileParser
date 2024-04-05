@@ -1,0 +1,14 @@
+rmdir /q/s .vs
+rmdir /q/s Debug
+rmdir /q/s Release
+rmdir /q/s packages
+rmdir /q/s x64
+rmdir /q/s NCFileLoader\Debug
+rmdir /q/s NCFileLoader\Release
+rmdir /q/s NCFileLoader\x64
+rmdir /q/s NCFileLoaderGoogleTest\Debug
+rmdir /q/s NCFileLoaderGoogleTest\Release
+rmdir /q/s NCFileLoaderGoogleTest\x64
+rmdir /q/s NCFileLoaderIFTest\Debug
+rmdir /q/s NCFileLoaderIFTest\Release
+rmdir /q/s NCFileLoaderIFTest\x64
